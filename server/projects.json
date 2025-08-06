@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "A modern, responsive portfolio website built with React, Node.js, and MongoDB. Features smooth animations, dark mode toggle, and dynamic content management.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2015&q=80",
+    "technologies": ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
+    "githubUrl": "https://github.com/davsis1993/portfolio",
+    "liveUrl": "https://davsis1993-portfolio.com"
+  },
+  {
+    "title": "E-commerce Platform",
+    "description": "An e-commerce platform with product listings, shopping cart functionality, secure checkout process, and inventory management.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "technologies": ["React", "Node.js", "Stripe", "MongoDB", "Redux"],
+    "githubUrl": "https://github.com/davsis1993/ecommerce",
+    "liveUrl": "https://davsis1993-ecommerce.com"
+  },
+  {
+    "title": "Task Manager App",
+    "description": "A full-featured task management application with user authentication, real-time updates, drag-and-drop task organization, and collaborative features.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    "technologies": ["React", "Node.js", "Socket.io", "MongoDB", "Material-UI"],
+    "githubUrl": "https://github.com/davsis1993/taskmanager",
+    "liveUrl": "https://davsis1993-taskmanager.com"
+  }
+] 

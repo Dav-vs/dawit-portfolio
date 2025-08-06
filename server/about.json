@@ -1,0 +1,12 @@
+[
+  {
+    "jobTitle": "Full Stack Developer",
+    "bio": "Experienced developer with expertise in React, Node.js, and MongoDB. Passionate about creating user-friendly applications.",
+    "skills": ["React", "Node.js", "MongoDB", "Express", "JavaScript", "TypeScript", "Tailwind CSS"],
+    "socialLinks": {
+      "github": "https://github.com/davsis1993",
+      "linkedin": "https://linkedin.com/in/davsis1993",
+      "twitter": "https://twitter.com/davsis1993"
+    }
+  }
+] 
